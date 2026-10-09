@@ -177,6 +177,7 @@ A curated list of awesome niche job boards.
 * [Startup Jobs](https://startup.jobs/)
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+* [Hypetrain](https://hypetrain.fyi/) - Jobs at Bay Area AI startups, with each office's walk from Caltrain or BART
 
 ## Tech
 
